@@ -1,4 +1,4 @@
 # react-movies
 
-[demo](silindjon.github.io/react-movies).
+[demo](https://silindjon.github.io/react-movies).
 
